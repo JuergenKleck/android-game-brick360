@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="level0">
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+    </integer-array>
+    <integer-array name="level1">
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>1</item><item>1</item><item>1</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>1</item><item>1</item><item>1</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>0</item><item>2</item><item>0</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>1</item><item>1</item><item>1</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>1</item><item>1</item><item>1</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>0</item><item>0</item><item>0</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>2</item><item>0</item><item>2</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>2</item><item>100</item><item>2</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>2</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+    </integer-array>
+    <integer-array name="level2">
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>1</item><item>1</item><item>1</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>1</item><item>2</item><item>1</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>2</item><item>2</item><item>2</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>2</item><item>2</item><item>2</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>1</item><item>2</item><item>1</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>1</item><item>1</item><item>1</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+    </integer-array>
+    <integer-array name="level3">
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>1</item><item>1</item><item>1</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>0</item><item>0</item><item>0</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>0</item><item>2</item><item>0</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>0</item><item>2</item><item>0</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>0</item><item>2</item><item>0</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>0</item><item>2</item><item>0</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>0</item><item>2</item><item>0</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>0</item><item>2</item><item>0</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>0</item><item>0</item><item>0</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>1</item><item>1</item><item>1</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+    </integer-array>
+    <integer-array name="level4">
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>1</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>2</item><item>1</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>1</item><item>0</item><item>0</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>1</item><item>2</item><item>1</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>0</item><item>0</item><item>0</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>1</item><item>2</item><item>1</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>0</item><item>0</item><item>1</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>1</item><item>2</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>1</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+    </integer-array>
+    <integer-array name="level5">
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>1</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>100</item><item>1</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>1</item><item>0</item><item>0</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>1</item><item>100</item><item>1</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>0</item><item>0</item><item>0</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>1</item><item>100</item><item>1</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>0</item><item>0</item><item>1</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>1</item><item>100</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>1</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+    </integer-array>
+    <integer-array name="level6">
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>1</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>1</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>1</item><item>1</item><item>1</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>1</item><item>1</item><item>1</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>1</item><item>1</item><item>1</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>1</item><item>1</item><item>1</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>1</item><item>1</item><item>1</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>1</item><item>1</item><item>1</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>1</item><item>1</item><item>1</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+    </integer-array>
+    <integer-array name="level7">
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>1</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>1</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>1</item><item>1</item><item>1</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>1</item><item>1</item><item>1</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>1</item><item>1</item><item>1</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>1</item><item>1</item><item>1</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>1</item><item>1</item><item>1</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>1</item><item>1</item><item>1</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>1</item><item>1</item><item>1</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>1</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+    </integer-array>
+    <integer-array name="level8">
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>1</item><item>0</item><item>1</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>0</item><item>1</item><item>0</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>1</item><item>0</item><item>1</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>2</item><item>1</item><item>2</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>1</item><item>0</item><item>1</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>0</item><item>1</item><item>0</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>1</item><item>0</item><item>1</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>2</item><item>1</item><item>2</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>1</item><item>0</item><item>1</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>0</item><item>1</item><item>0</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+    </integer-array>
+    <integer-array name="level9">
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>1</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>1</item><item>0</item><item>1</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>0</item><item>2</item><item>0</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>1</item><item>0</item><item>2</item><item>0</item><item>2</item><item>0</item><item>1</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>0</item><item>2</item><item>0</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>1</item><item>0</item><item>1</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>1</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+    </integer-array>
+    <integer-array name="level10">
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>1</item><item>1</item><item>1</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>1</item><item>1</item><item>1</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>0</item><item>0</item><item>0</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>2</item><item>0</item><item>2</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>0</item><item>100</item><item>0</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>2</item><item>0</item><item>0</item><item>0</item><item>2</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>2</item><item>2</item><item>2</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+    </integer-array>
+    <integer-array name="level11">
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>2</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>2</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>2</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>0</item><item>2</item><item>0</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>0</item><item>2</item><item>0</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>1</item><item>1</item><item>1</item><item>1</item><item>1</item><item>1</item><item>1</item><item>0</item>
+<item>0</item><item>1</item><item>1</item><item>1</item><item>1</item><item>1</item><item>1</item><item>1</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>1</item><item>1</item><item>1</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+    </integer-array>
+    <integer-array name="level12">
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>0</item><item>0</item><item>0</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>0</item><item>0</item><item>0</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>1</item><item>0</item><item>1</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>1</item><item>0</item><item>1</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>2</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>2</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>1</item><item>0</item><item>1</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>1</item><item>0</item><item>1</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>0</item><item>0</item><item>0</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>0</item><item>0</item><item>0</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+    </integer-array>
+    <integer-array name="level13">
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>1</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>1</item><item>0</item><item>1</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>0</item><item>2</item><item>0</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>1</item><item>0</item><item>2</item><item>3</item><item>2</item><item>0</item><item>1</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>0</item><item>2</item><item>0</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>1</item><item>0</item><item>1</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>1</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+    </integer-array>
+    <integer-array name="level14">
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>1</item><item>0</item><item>1</item><item>0</item><item>1</item><item>0</item><item>1</item><item>0</item>
+<item>0</item><item>0</item><item>2</item><item>0</item><item>1</item><item>0</item><item>2</item><item>0</item><item>0</item>
+<item>0</item><item>1</item><item>0</item><item>3</item><item>3</item><item>3</item><item>0</item><item>1</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>3</item><item>4</item><item>3</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>1</item><item>0</item><item>3</item><item>3</item><item>3</item><item>0</item><item>1</item><item>0</item>
+<item>0</item><item>0</item><item>2</item><item>0</item><item>1</item><item>0</item><item>2</item><item>0</item><item>0</item>
+<item>0</item><item>1</item><item>0</item><item>1</item><item>0</item><item>1</item><item>0</item><item>1</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+    </integer-array>
+    <integer-array name="level15">
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>2</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>0</item><item>0</item><item>0</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>2</item><item>0</item><item>1</item><item>0</item><item>3</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>3</item><item>0</item><item>1</item><item>0</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>0</item><item>2</item><item>0</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>1</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>2</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+    </integer-array>
+    <integer-array name="level16">
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>1</item><item>1</item><item>1</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>0</item><item>0</item><item>0</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>0</item><item>2</item><item>0</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>0</item><item>1</item><item>0</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>0</item><item>1</item><item>0</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>0</item><item>2</item><item>0</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>0</item><item>3</item><item>0</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>0</item><item>0</item><item>0</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>1</item><item>1</item><item>1</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+    </integer-array>
+    <integer-array name="level17">
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>100</item><item>3</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>3</item><item>0</item><item>0</item><item>3</item><item>100</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>100</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>100</item><item>3</item><item>0</item><item>3</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>3</item><item>0</item><item>100</item><item>0</item><item>100</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>3</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>100</item><item>0</item><item>100</item><item>0</item><item>100</item><item>3</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>3</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>3</item><item>100</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>100</item><item>3</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+    </integer-array>
+    <integer-array name="level18">
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>3</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>3</item><item>100</item><item>3</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>3</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>1</item><item>1</item><item>1</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>2</item><item>100</item><item>2</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>1</item><item>1</item><item>1</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>1</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>1</item><item>1</item><item>1</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>2</item><item>100</item><item>2</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>1</item><item>1</item><item>1</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+    </integer-array>
+    <integer-array name="level19">
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>1</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>0</item><item>0</item><item>0</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>1</item><item>1</item><item>0</item><item>0</item><item>0</item><item>1</item><item>1</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>2</item><item>0</item><item>2</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>2</item><item>0</item><item>2</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>0</item><item>3</item><item>0</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>1</item><item>1</item><item>4</item><item>100</item><item>4</item><item>1</item><item>1</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>0</item><item>3</item><item>0</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>2</item><item>0</item><item>2</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>1</item><item>1</item><item>0</item><item>0</item><item>0</item><item>1</item><item>1</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>0</item><item>0</item><item>0</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>1</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+    </integer-array>
+    <integer-array name="level20">
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>1</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>1</item><item>4</item><item>1</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>1</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>1</item><item>1</item><item>1</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>1</item><item>2</item><item>1</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>2</item><item>3</item><item>2</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>1</item><item>2</item><item>1</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>1</item><item>1</item><item>1</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>1</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+    </integer-array>
+    <integer-array name="level21">
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>1</item><item>1</item><item>1</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>2</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>2</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>1</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>1</item><item>0</item>
+<item>0</item><item>1</item><item>2</item><item>0</item><item>3</item><item>0</item><item>2</item><item>1</item><item>0</item>
+<item>0</item><item>1</item><item>2</item><item>0</item><item>3</item><item>0</item><item>2</item><item>1</item><item>0</item>
+<item>0</item><item>1</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>1</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>2</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>2</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>1</item><item>1</item><item>1</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+    </integer-array>
+    <integer-array name="level22">
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>3</item><item>3</item><item>0</item><item>0</item><item>0</item><item>3</item><item>3</item><item>0</item>
+<item>0</item><item>3</item><item>100</item><item>0</item><item>0</item><item>0</item><item>100</item><item>3</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>1</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>1</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>3</item><item>100</item><item>0</item><item>0</item><item>0</item><item>100</item><item>3</item><item>0</item>
+<item>0</item><item>3</item><item>3</item><item>0</item><item>0</item><item>0</item><item>3</item><item>3</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+    </integer-array>
+    <integer-array name="level23">
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>1</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>1</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>0</item><item>1</item><item>0</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>1</item><item>4</item><item>1</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>2</item><item>0</item><item>2</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>3</item><item>3</item><item>3</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>1</item><item>100</item><item>1</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>0</item><item>1</item><item>0</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>1</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>1</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+    </integer-array>
+    <integer-array name="level24">
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>1</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>1</item><item>0</item><item>1</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>0</item><item>2</item><item>0</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>1</item><item>0</item><item>2</item><item>4</item><item>2</item><item>0</item><item>1</item><item>0</item>
+<item>0</item><item>0</item><item>2</item><item>3</item><item>3</item><item>3</item><item>2</item><item>0</item><item>0</item>
+<item>0</item><item>1</item><item>0</item><item>2</item><item>4</item><item>2</item><item>0</item><item>1</item><item>0</item>
+<item>0</item><item>0</item><item>1</item><item>0</item><item>2</item><item>0</item><item>1</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>1</item><item>0</item><item>1</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>1</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+    </integer-array>
+    <integer-array name="level25">
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>100</item><item>0</item><item>0</item><item>0</item><item>100</item><item>0</item><item>0</item>
+<item>0</item><item>100</item><item>4</item><item>100</item><item>0</item><item>100</item><item>4</item><item>100</item><item>0</item>
+<item>0</item><item>0</item><item>100</item><item>4</item><item>0</item><item>4</item><item>100</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>100</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>4</item><item>4</item><item>4</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>4</item><item>4</item><item>4</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>100</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>100</item><item>4</item><item>0</item><item>4</item><item>100</item><item>0</item><item>0</item>
+<item>0</item><item>100</item><item>4</item><item>100</item><item>0</item><item>100</item><item>4</item><item>100</item><item>0</item>
+<item>0</item><item>0</item><item>100</item><item>0</item><item>0</item><item>0</item><item>100</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+<item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item><item>0</item>
+    </integer-array>
+</resources>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Brick 360</string>
+    <string name="creator">SimplyApps.info</string>
+    <string name="btn_buy">Buy</string>
+  	<string name="btn_quit">Quit</string>
+  	<string name="btn_ok">OK</string>
+  	<string name="btn_retry">Retry</string>
+  	<string name="error">Error</string>
+    <string name="application_error">Application error: %1$s</string>
+   
+    <string name="statistic_highscore">Highscore:</string>
+    <string name="zero">0</string>
+    <string name="statistic_lastgame">Last Game:</string>
+    <string name="statistic_currentgame">Current Game:</string>
+
+    <string name="options">Options:</string>
+    <string name="options_music">Music</string>
+    <string name="options_difficulty">Difficulty</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    
+    <string name="player_self">YOU</string>
+    <string name="player_enemy">ENEMY</string>
+    <string name="player_score">SCORE</string>
+    
+    <string name="update_title">Update available</string>
+    <string name="update_text">Please update to the new version.</string>
+    <string name="check_title">Update check required</string>
+    <string name="check_text">Could not check for required updates. Please check your internet connectivity.</string>
+    
+    <string name="save_failed">Failed to save the item.</string>    
+	<string name="delete_failed">Failed to delete the item.</string>    
+	<string name="reset_complete">Current game resetted.</string>
+	<string name="achievement_not_met">Achievement not met.</string>
+
+    <string name="menubutton_start">PLAY</string>
+    <string name="menubutton_score">SCORE</string>
+    <string name="menubutton_options">OPTIONS</string>
+    <string name="menubutton_back">BACK</string>
+    <string name="menubutton_accept">ACCEPT</string>
+    <string name="menubutton_cancel">CANCEL</string>
+    <string name="menubutton_pause">PAUSE</string>
+    <string name="menubutton_resume">RESUME</string>
+    <string name="menubutton_launch">LAUNCH</string>
+    <string name="menubutton_option_color">COLORS</string>
+    <string name="menubutton_option_misc">MISC</string>
+    <string name="menubutton_option_upgrade">ITEMS</string>
+    <string name="menubutton_continue">CONTINUE</string>
+
+    <string name="rank">RANK</string>
+    
+    <string name="menubutton_expansion_buy">BUY</string>
+    <string name="menubutton_expansion_fireball">FIREBALL</string>
+    <string name="menubutton_expansion_invisibleball">INVISIBLE</string>
+    <string name="menubutton_expansion_bigball">BIG BALL</string>
+    <string name="menubutton_expansion_ballset">BALL SET</string>
+    <string name="menubutton_expansion_counter_measure">DISARM KIT</string>
+    <string name="menubutton_expansion_crosshair">CROSSHAIR</string>
+    <string name="menubutton_expansion_glueball">GLUE BALL</string>
+    <string name="menubutton_expansion_wall">WALL</string>
+    
+    <string name="message_loading">LOADING</string>
+    <string name="message_boardcolor">BOARD</string>
+    <string name="message_ballcolor">BALL</string>
+    <string name="message_invertdirection">INVERT STEERING</string>
+    <string name="message_showcrosshair">SHOW CROSSHAIR</string>
+    <string name="message_resetdata">RESET CURRENT GAME</string>
+    <string name="message_coins">{0} COINS AVAILABLE</string>
+    <string name="message_costs">{0} COINS REQUIRED</string>
+    <string name="message_explanation_fireball">BREAK BRICKS</string>
+    <string name="message_explanation_invisibleball">HIDDEN FOR ENEMY</string>
+    <string name="message_explanation_bigball">A GIANT BALL</string>
+    <string name="message_explanation_ballset">MORE BALLS TO PLAY</string>
+    <string name="message_explanation_counter_measure">DISARM BOMBS</string>
+    <string name="message_explanation_crosshair">SEE BALL TARGET</string>
+    <string name="message_explanation_glueball">STICK TO BOARD</string>
+    <string name="message_explanation_wall">CREATE A WALL</string>
+    <string name="message_red">RED</string>
+    <string name="message_green">GREEN</string>
+    <string name="message_blue">BLUE</string>
+    <string name="message_gameround">ROUND {0}</string>
+    <string name="message_gamelost">GAME OVER</string>
+    <string name="message_gamewon">GAME WON</string>
+    <string name="message_bonus_coins">BONUS COINS: {0}</string>
+    <string name="message_lives">BALLS: {0}</string>
+
+</resources>
