@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:simplyapps="http://info.simplyapps.game.brick360.rendering"
+    xmlns:customapp="http://com.juergenkleck.android.game.brick360.rendering"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
     android:id="@+id/homescreen" >
     
-    <info.simplyapps.game.brick360.screens.HomeView
+    <com.juergenkleck.android.game.brick360.screens.HomeView
         android:id="@+id/homeview"
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
-        simplyapps:orientation="false" />
+        customapp:orientation="false" />
 
 </FrameLayout>
