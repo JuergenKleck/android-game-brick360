@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Brick 360</string>
-    <string name="creator">SimplyApps.info</string>
+    <string name="creator">Juergen Kleck</string>
     <string name="btn_buy">Buy</string>
   	<string name="btn_quit">Quit</string>
   	<string name="btn_ok">OK</string>
